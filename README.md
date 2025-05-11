@@ -8,7 +8,7 @@ AtliQ Grands owns multiple five-star hotels across India. They have been in the 
 [Download Hotels_1.xlsx](https://github.com/antik720720/Hotel-Revenue-Report/raw/main/Hotels_1.xlsx)
 ### 📈 Dashboard Preview
 
-![Dashboard Screenshot](images/Hotel_Revenue.png)
+![Dashboard Screenshot](Hotel_Revenue.png)
 
 
 Tools used - Power Query, Power pivot, Excel
