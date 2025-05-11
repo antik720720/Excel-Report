@@ -14,6 +14,12 @@ AtliQ Grands owns multiple five-star hotels across India. They have been in the 
 Tools used - Power Query, Power pivot, Excel
 
 KPIs used --
+## 📌 Key Performance Indicators (KPIs)
+
+The following DAX formulas were used to calculate core metrics for the Hotel Revenue Report:
+
+![KPI Screenshot](KPIs.png)
+
 
 
 
