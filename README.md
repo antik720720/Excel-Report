@@ -12,3 +12,8 @@ AtliQ Grands owns multiple five-star hotels across India. They have been in the 
 
 
 Tools used - Power Query, Power pivot, Excel
+
+KPIs used --
+
+
+
